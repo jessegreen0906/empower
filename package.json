@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/jessegreen0906/empower#readme",
   "devDependencies": {
-    "grunt": "^1.0.1",
-    "grunt-contrib-less": "^1.3.0"
+    "grunt": "1.x.x",
+    "grunt-contrib-less": "1.x.x"
   }
 }
