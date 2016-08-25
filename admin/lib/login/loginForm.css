@@ -1,0 +1,6 @@
+input.ng-touched.ng-invalid {
+	border: 3px red solid;
+}
+#login-box .error.invalid-field {
+	display:block;
+}
