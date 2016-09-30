@@ -1,7 +1,7 @@
 <?php
 
-define(DB_NAME, "homepage");
-define(DB_USER, "hpUser");
-define(DB_PASSWORD, "hpPassword");
+define(DB_NAME, "empower");
+define(DB_USER, "mpuser");
+define(DB_PASSWORD, "mppassword");
 
 ?>

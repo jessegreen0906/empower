@@ -8,7 +8,7 @@ module.exports = function(grunt) {
 					paths: ['Empower-UI/style/**']
 				},
 				files: {
-					'./Empower-UI/style/ui-style.css': './Empower-UI/style/ui-style.less'
+					'./admin/styles/css/style.css': './admin/styles/less/style.less'
 				}
 			}
 		}

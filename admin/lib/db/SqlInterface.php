@@ -1,5 +1,5 @@
 <?php
-namespace Impact\DB;
+namespace Empower\DB;
 
 class SqlInterface {
 	private function connectToDB()
